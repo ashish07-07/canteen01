@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Ubuntu:wght@500&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* font-family: "Lilita One", cursive; */
+  font-family: "Ubuntu", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.nav-link {
+  color: black !important;
+}
+.navbar-brand {
+  color: black !important;
+}
+
+h1 {
+  font-size: 10px;
+}
+
+.flex-container {
+  display: flex !important;
+}
+
+.btn {
+  background-color: red !important;
+}
+
+select {
+  box-shadow: none !important;
+  border-color: black !important;
+}
